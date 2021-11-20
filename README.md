@@ -16,4 +16,5 @@
 
 #### Audit Date: Nov. 18th 2021
 #### Security Level: Well-secured
+#### Audit Report: https://github.com/ShibaWallet/SecurityAuditReport/blob/main/ShibaWallet%20-%20Smart%20Contracts%20Security%20Audit%20Report.pdf
 
